@@ -1,6 +1,6 @@
 # jpa02-vinsonlinn
 
-Repo: https://ucsb-cs156-f23/jpa02-vinsonlinn
+Repo: https://github.com/ucsb-cs156-f23/jpa02-vinsonlinn
 
 Deployed at: https://jpa02-vinsonlinn.dokku-01.cs.ucsb.edu
 
