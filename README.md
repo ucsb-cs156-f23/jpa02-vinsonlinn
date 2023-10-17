@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-f23/jpa02-vinsonlinn
 
-Deployed at: jpa02-vinsonlinn.dokku-01.cs.ucsb.edu
+Deployed at: http://jpa02-vinsonlinn.dokku-01.cs.ucsb.edu
 
 
 # About this repo
